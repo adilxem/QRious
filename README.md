@@ -1,2 +1,2 @@
 # QRious
-QR Code Generator
+QR Code Generator App
