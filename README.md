@@ -1,0 +1,2 @@
+# QRious
+QR Code Generator
